@@ -1,0 +1,46 @@
+.nav-tabs {
+  border: 0 !important;
+}
+
+.card__title {
+  padding: 10px 0px 0px 10px !important;
+}
+
+.square {
+  border-radius: 0px !important;
+}
+
+.list-scroll {
+  overflow: auto;
+  height: 124px;
+}
+
+.card__periodos {
+  height: 121px;
+}
+
+::-webkit-scrollbar  {
+  width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: grey;
+  border-radius: 5px;
+}
+
+.arrow {  
+  position: relative;
+  top: 40%;
+}
+
+.title__Select {
+  font-weight: bold;
+}
+
+#pivotgrid {
+  margin-top: 20px;
+}
+
+.currency {
+  text-align: center;
+}
